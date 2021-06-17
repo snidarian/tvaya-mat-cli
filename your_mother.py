@@ -1,5 +1,11 @@
 #!/usr/bin/python3
 
+
+# documnentation for api found here:
+# https://github.com/beanboi7/yomomma-apiv2
+
+
+
 import requests as rq
 import argparse
 from colorama import Fore, Style
